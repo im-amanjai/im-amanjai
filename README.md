@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman Jaiswal
-- 🌱 I’m currently learning Advance Java and Javascript.
-- 📫 How to reach me @amanmaadad@gmail.com
+- 🌱 I’m currently learning the MERN STACK and Advance Java. 
+- 📫 How to reach me @amanmaadad@gmail.com.
 
 <!---
 im-amanjai/im-amanjai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
