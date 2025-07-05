@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Aman Jaiswal</h1>
-<h3 align="center">💻 Full Stack Developer | MERN Stack Enthusiast | MCA @ Presidency University, Bengaluru</h3>
+<h3 align="center">💻 Passionate Full Stack Developer | MERN Stack Enthusiast | MCA @ Presidency University, Bengaluru</h3>
 
 <p align="center">
   🚀 I build scalable, secure, and modern web applications using the MERN stack.<br/>
