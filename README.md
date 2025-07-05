@@ -82,7 +82,6 @@
 
 - Deepening skills in **AWS & Cloud Services**
 - Solving **Data Structures & Algorithms** problems
-- Learning **CI/CD**, **Docker**, and **Kubernetes**
 
 ---
 
