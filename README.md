@@ -1,6 +1,11 @@
 <h1 align="center">Hey 👋, I'm Aman Jaiswal</h1>
 <h3 align="center">💻 Full Stack Developer | MERN Stack Enthusiast | MCA @ Presidency University, Bengaluru</h3>
 
+<p align="center">
+  🚀 I build scalable, secure, and modern web applications using the MERN stack.<br/>
+  🔍 Passionate about solving real-world problems through technology and innovation.
+</p>
+
 ---
 
 ## 💫 About Me
@@ -19,7 +24,6 @@
 
 - 📧 Email: [amanmaadad@gmail.com](mailto:amanmaadad@gmail.com)
 - 💼 LinkedIn: [Aman Jaiswal](https://www.linkedin.com/in/aman-jaiswal-504ab3258)
-- 📷 Instagram: [@_amanjai_](https://www.instagram.com/_amanjai_)
 
 ---
 
@@ -78,7 +82,6 @@
 
 - Deepening skills in **AWS & Cloud Services**
 - Solving **Data Structures & Algorithms** problems
-- Learning **Docker**, and **Kubernetes**
 
 ---
 
