@@ -63,14 +63,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=im-amanjai&theme=gruvbox&row=1&column=7" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
 - 🔹 **[Finovue - Personal Stock Portfolio Tracker](https://finovuee.netlify.app)**  
